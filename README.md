@@ -11,6 +11,6 @@ In this repository, for ReAssert you will find:
 :white_check_mark: [Source code (available)](https://github.com/oerich/ReqtDisc)
 * :x: Original tool (not available)
 
-This tool was certified as UnWorkable for this project, since neither the executable nor the dataset required for it was available on the Internet. 
+This tool was certified as UnWorkable for this project because when I tried building the tool from the source code, it hit various dependency issues which could not be resolved. Also neither the executable nor the dataset required for it was available on the Internet. 
 This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
