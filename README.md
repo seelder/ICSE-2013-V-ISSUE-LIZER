@@ -1,5 +1,3 @@
-# ICSE-2013--V:ISSUE:LIZER
-
 
 This repository contains information related to the tool V:ISSUE:LIZER presented at International Conference on Software Engineering, 2013. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2486997)
 
