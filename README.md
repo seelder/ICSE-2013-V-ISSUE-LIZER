@@ -5,7 +5,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [The Official Project Page](http://thesegalgroup.org/58/vissuelizer-prototype-for-analyzing-distributed-requirements-clarification/)
 * [A Video of the Tool](https://www.youtube.com/watch?v=Oy3xvzjy3BQ)
 
-In this repository, for ReAssert you will find:
+In this repository, for V:ISSUE:LIZER you will find:
 * :white_check_mark: [Source code (available)](https://github.com/oerich/ReqtDisc)
 * :x: Original tool (not available)
 
