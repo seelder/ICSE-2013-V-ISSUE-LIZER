@@ -1,5 +1,5 @@
 
-This repository contains information related to the tool V:ISSUE:LIZER presented at International Conference on Software Engineering, 2013. The tool was originally presented in [this paper.](http://dl.acm.org/citation.cfm?id=2486997)
+This repository contains information related to the tool V:ISSUE:LIZER presented at International Conference on Software Engineering, 2013. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2486997).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page](http://thesegalgroup.org/58/vissuelizer-prototype-for-analyzing-distributed-requirements-clarification/)
