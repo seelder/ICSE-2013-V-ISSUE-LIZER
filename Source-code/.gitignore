@@ -1,0 +1,11 @@
+*-classifier.txt
+classifier.txt
+coordClassifier.txt
+clarifClassifier.txt
+clariClassifier.txt
+target
+/trento-mysql-properties.txt
+/jazz-properties.txt
+/local-postgres-properties.txt
+/ballroom-postgres-properties.txt
+/all-visualizations
