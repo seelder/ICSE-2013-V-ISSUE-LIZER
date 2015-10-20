@@ -6,7 +6,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](https://www.youtube.com/watch?v=Oy3xvzjy3BQ)
 
 In this repository, for V:ISSUE:LIZER you will find:
-* :white_check_mark: [Source code (available)](https://github.com/gsrajadh/ReqtDisc)
+* :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-V-ISSUE-LIZER/tree/master/Source-code)
 * :x: Original tool (not available)
 
 This tool was certified as Unworkable for this project because when I tried building the tool from the source code, it hit various dependency issues which could not be resolved. Also neither the executable nor the dataset required for it was available on the Internet. 
