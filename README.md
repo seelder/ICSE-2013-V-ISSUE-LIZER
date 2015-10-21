@@ -9,8 +9,5 @@ In this repository, for V:ISSUE:LIZER you will find:
 * :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-V-ISSUE-LIZER/tree/master/Source-code)
 * :x: Original tool (not available)
 
-This tool was certified as unworkable as it wasn't functioning as per the guidelines in the paper.
-
-
 This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr.Eric Knauss for his help in establishing this repository.
 
