@@ -10,5 +10,5 @@ In this repository, for V:ISSUE:LIZER you will find:
 * :x: Original tool (not available)
 * :x: A slightly modified version of the tool that is working (not available)
 
-This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr.Eric Knauss for his help in establishing this repository.
+This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Eric Knauss for his help in establishing this repository.
 
